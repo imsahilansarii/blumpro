@@ -52,8 +52,8 @@ const showBanner = () => {
   clear();
   const programName = chalk.greenBright("BLUM AUTO-PLAY\n");
   const version = chalk.greenBright("2.0.0-release\n");
-  const author = chalk.greenBright("@decryptable\n");
-  const source = chalk.greenBright.underline("https://discord.gg/ueCy4vyJ4y\n\n");
+  const author = chalk.greenBright("@Airdrop_hunts7\n");
+  const source = chalk.greenBright.underline("https://t.me/airdrop_hunts7\n\n");
 
   const note = chalk.yellowBright(
     `Interested in supporting me through donations? You can send it through ${chalk.greenBright.underline(
